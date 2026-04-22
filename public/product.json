@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "description": "Perfect for individuals just getting started.",
+    "price": 9.99,
+    "period": "month",
+    "tagType": "Best Seller",
+    "features": ["1 User", "5GB Storage", "Basic Support"],
+    "icon": "https://img.icons8.com/fluency/96/user-male-circle.png", 
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 2,
+    "name": "Pro Plan",
+    "description": "Ideal for professionals and growing businesses.",
+    "price": 29.99,
+    "period": "month",
+    "tagType": "Popular",
+    "features": ["5 Users", "50GB Storage", "Priority Support", "Analytics"],
+    "icon": "https://img.icons8.com/fluency/96/rocket.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 3,
+    "name": "Enterprise",
+    "description": "Advanced tools for large scale organizations.",
+    "price": 99.99,
+    "period": "month",
+    "tagType": "New",
+    "features": ["Unlimited Users", "1TB Storage", "24/7 Support", "Custom API"],
+    "icon": "https://img.icons8.com/fluency/96/office.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 4,
+    "name": "Starter",
+    "description": "Simple and clean for personal projects.",
+    "price": 49.99,
+    "period": "lifetime",
+    "tagType": "Popular",
+    "features": ["1 Project", "Limited Access", "Community Support"],
+    "icon": "https://img.icons8.com/fluency/96/leaf.png",
+    "buttonText": "Get Started"
+  },
+  {
+    "id": 5,
+    "name": "Freelancer",
+    "description": "Best for solo developers and designers.",
+    "price": 19.99,
+    "period": "month",
+    "tagType": "Best Seller",
+    "features": ["3 Projects", "20GB Storage", "Email Support"],
+    "icon": "https://img.icons8.com/fluency/96/pen-and-brush.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 6,
+    "name": "Team",
+    "description": "Collaboration tools for small teams.",
+    "price": 49.99,
+    "period": "month",
+    "tagType": "Popular",
+    "features": ["10 Users", "100GB Storage", "Slack Integration", "Dashboard"],
+    "icon": "https://img.icons8.com/fluency/96/conference-call.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 7,
+    "name": "Startup",
+    "description": "Accelerate your product development.",
+    "price": 39.99,
+    "period": "month",
+    "tagType": "New",
+    "features": ["5 Projects", "50GB Storage", "Live Chat", "Marketing Tools"],
+    "icon": "https://img.icons8.com/fluency/96/light-bulb.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 8,
+    "name": "Student",
+    "description": "Discounted access for students.",
+    "price": 4.99,
+    "period": "month",
+    "tagType": "Popular",
+    "features": ["1 User", "10GB Storage", "Educational Access"],
+    "icon": "https://img.icons8.com/fluency/96/graduation-cap.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 9,
+    "name": "Business",
+    "description": "Professional solutions for established firms.",
+    "price": 79.99,
+    "period": "month",
+    "tagType": "Best Seller",
+    "features": ["Unlimited Users", "500GB Storage", "Dedicated Manager", "Security"],
+    "icon": "https://img.icons8.com/fluency/96/briefcase.png",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 10,
+    "name": "Lifetime",
+    "description": "Pay once and access forever.",
+    "price": 299.99,
+    "period": "one-time",
+    "tagType": "Popular",
+    "features": ["Lifetime Access", "All Features", "Premium Support"],
+    "icon": "https://img.icons8.com/fluency/96/infinity.png",
+    "buttonText": "Buy Now"
+  }
+]
