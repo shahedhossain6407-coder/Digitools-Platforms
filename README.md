@@ -1,16 +1,17 @@
-# React + Vite
+Name of your Project : Digitools-Platforms.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview : DigiTools holo ekta modern, user-friendly marketplace platform, jeta premium digital assets khujar jonno banano hoyeche. Performance ebong user experience er kotha mathay rekhe design kora hoyeche, ja developers ebong designers der jonno ekta seamless shopping experience dey.
 
-Currently, two official plugins are available:
+Technologies Used : 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Frontend : React.js, JavaScript (ES6+)
+Styling  : Tailwind CSS, DaisyUI
+State Management: Context API
+Build Tool: Vite
+Version Control : Git & GitHub
 
-## React Compiler
+Key Features :
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Global State Management : React Context API use kore shopping cart functionality control kora hoyeche, jate prop-drilling er problem na hoy.
+ Modern Responsive UI : Tailwind CSS ebong DaisyUI diye design kora hoyeche, ja sob device e sundor ebong responsive thake.
+ Optimized Performance : Vite use korar karone app-ti khub fast load hoy ebong efficient work flow maintain kore.
