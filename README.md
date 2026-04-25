@@ -14,4 +14,5 @@ Key Features :
 
  Global State Management : React Context API use kore shopping cart functionality control kora hoyeche, jate prop-drilling er problem na hoy.
  Modern Responsive UI : Tailwind CSS ebong DaisyUI diye design kora hoyeche, ja sob device e sundor ebong responsive thake.
- Optimized Performance : Vite use korar karone app-ti khub fast load hoy ebong efficient work flow maintain kore.
+ Optimized Performance : Vite use korar karone app-ti khub fast load hoy ebong efficient work flow maintain kore .
+ 
