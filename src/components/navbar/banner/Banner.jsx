@@ -10,7 +10,7 @@ const Banner = () => {
     return (
        
         <div>
-         <div className=' flex gap-30 my-20 items-center container mx-auto'>
+         <div className=' grid grid-cols-1 lg:grid-cols-2  gap-30 my-20 te container mx-auto'>
            <div className='left space-y-5 flex-1'>
              <div className='badge bg-[#9514FA20]'>
                 <div className=' border-5 border-[#9514FA]  rounded-full'></div>

@@ -8,7 +8,7 @@ const PricingSection = () => {
             <h2 className='text-4xl font-bold'>Simple, Transparent Pricing</h2>
             <p className='text-sm text-gray-500'>Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
         </div>
-        <div className='Price-card-container grid grid-cols-3 gap-20 mt-30  '>
+        <div className='Price-card-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 mt-30  '>
               <div className='price-card bg-gray-100 space-y-5 p-10 rounded-xl'>
                 <div className='space-y-1'>
                     <h3 className='font-bold text-xl'>Starter</h3>

@@ -11,7 +11,7 @@ const StartPlan = () => {
             <h3 className='text-center font-bold text-4xl'>Get Started in 3 Steps</h3>
             <small><p className='text-center text-gray-500 text-[13px]'>Start using premium digital tools in minutes, not hours.</p></small>
             </div>
-            <div className='planing-card-container grid grid-cols-3 gap-30 mt-30 container mx-auto'>
+            <div className='planing-card-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-30 mt-30 container mx-auto'>
                 <div className='planing-card shadow rounded-2xl p-5 '>
                     <div className='flex justify-end items-center '>
                     <h3 className=' w-7 h-7 bg-purple-600 rounded-full text-white text-center text-sm pt-1'>01</h3>
