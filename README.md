@@ -4,11 +4,11 @@ Project Overview : DigiTools holo ekta modern, user-friendly marketplace platfor
 
 Technologies Used : 
 
-Frontend : React.js, JavaScript (ES6+)
-Styling  : Tailwind CSS, DaisyUI
-State Management: Context API
-Build Tool: Vite
-Version Control : Git & GitHub
+Frontend : React.js, JavaScript (ES6+).
+Styling  : Tailwind CSS, DaisyUI.
+State Management: Context API.
+Build Tool: Vite.
+Version Control : Git & GitHub.
 
 Key Features :
 
